@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
 ![girlcoding](https://github.com/user-attachments/assets/15378844-30fa-4447-adbe-eb22446bfc9a)
 
 
-<img width="480" height="480" alt="gif" src="https://github.com/user-attachments/assets/4357847e-220c-4cb7-8d73-e36b1cfd2778.gif" />
-
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
