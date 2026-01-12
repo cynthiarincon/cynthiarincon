@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,13 +47,12 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-  
-  
+
   ---
   
   ## 📄 Resume
   
-[![Download Resume](https://img.shields.io/badge/Download_Resume-FF69B4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1-EbGWgHAQ4Y8Fm-Ln5EuoUIla1LLFlINfPvEiZVdJII/export?format=pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-000080?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1-EbGWgHAQ4Y8Fm-Ln5EuoUIla1LLFlINfPvEiZVdJII/export?format=pdf)
  
   ---
   
