@@ -5,9 +5,9 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%9F;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15378844-30fa-4447-adbe-eb22446bfc9a" alt="girlcoding" />
